@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@payloadcms/drizzle": "workspace:*",
-    "@types/pg": "8.10.2",
+    "@types/pg": "8.11.11",
     "console-table-printer": "2.12.1",
     "drizzle-kit": "0.28.0",
     "drizzle-orm": "0.36.1",
