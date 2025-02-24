@@ -14,7 +14,7 @@
     "start": "cross-env NODE_OPTIONS=--no-deprecation next start"
   },
   "dependencies": {
-    "@payloadcms/db-mongodb": "beta",
+    "@payloadcms/db-mongodb": "3.20.0",
     "@payloadcms/next": "beta",
     "@payloadcms/richtext-lexical": "beta",
     "class-variance-authority": "^0.7.0",
