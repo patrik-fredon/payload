@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@payloadcms/db-mongodb": "beta",
-    "@payloadcms/next": "beta",
+    "@payloadcms/next": "3.21.0",
     "@payloadcms/richtext-lexical": "beta",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
