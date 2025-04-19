@@ -342,7 +342,7 @@
     "@lexical/mark": "0.20.0",
     "@lexical/react": "0.20.0",
     "@lexical/rich-text": "0.20.0",
-    "@lexical/selection": "0.20.0",
+    "@lexical/selection": "0.27.2",
     "@lexical/utils": "0.20.0",
     "@payloadcms/translations": "workspace:*",
     "@payloadcms/ui": "workspace:*",
