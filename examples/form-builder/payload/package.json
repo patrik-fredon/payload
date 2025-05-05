@@ -17,7 +17,7 @@
     "@apollo/client": "^3.7.0",
     "@faceless-ui/css-grid": "^1.2.0",
     "@faceless-ui/modal": "^2.0.2",
-    "@payloadcms/db-mongodb": "beta",
+    "@payloadcms/db-mongodb": "3.34.0",
     "@payloadcms/next": "beta",
     "@payloadcms/plugin-cloud": "3.0.2",
     "@payloadcms/plugin-form-builder": "3.34.0",
