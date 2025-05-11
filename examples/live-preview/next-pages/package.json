@@ -9,7 +9,7 @@
     "start": "next start -p 3001"
   },
   "dependencies": {
-    "@payloadcms/live-preview-react": "3.31.0",
+    "@payloadcms/live-preview-react": "3.35.1",
     "@types/escape-html": "^1.0.2",
     "escape-html": "^1.0.3",
     "next": "^13.5.1",
