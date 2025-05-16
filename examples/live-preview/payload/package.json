@@ -20,7 +20,7 @@
     "@payloadcms/live-preview-react": "3.0.0-beta.28",
     "@payloadcms/next": "3.22.0",
     "@payloadcms/richtext-slate": "3.27.0",
-    "@payloadcms/ui": "3.0.0-beta.28",
+    "@payloadcms/ui": "3.33.0",
     "cross-env": "^7.0.3",
     "next": "14.3.0-canary.68",
     "payload": "3.0.0-beta.28",
