@@ -14,15 +14,15 @@
     "start": "cross-env NODE_OPTIONS=--no-deprecation next start"
   },
   "dependencies": {
-    "@payloadcms/db-mongodb": "3.36.1",
+    "@payloadcms/db-mongodb": "3.39.1",
     "@payloadcms/next": "3.27.0",
-    "@payloadcms/richtext-lexical": "3.36.1",
+    "@payloadcms/richtext-lexical": "3.39.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "cross-env": "^7.0.3",
     "lucide-react": "^0.477.0",
     "next": "14.3.0-canary.68",
-    "payload": "3.36.1",
+    "payload": "3.39.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sharp": "0.32.6",
