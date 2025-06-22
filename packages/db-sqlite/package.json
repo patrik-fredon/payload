@@ -52,7 +52,7 @@
     "prepublishOnly": "pnpm clean && pnpm turbo build"
   },
   "dependencies": {
-    "@libsql/client": "0.15.4",
+    "@libsql/client": "0.15.8",
     "@payloadcms/drizzle": "workspace:*",
     "console-table-printer": "2.14.0",
 
