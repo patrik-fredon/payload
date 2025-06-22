@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@payloadcms/db-mongodb": "3.23.0",
-    "@payloadcms/live-preview-react": "3.0.0-beta.28",
+    "@payloadcms/live-preview-react": "3.36.1",
     "@payloadcms/next": "3.22.0",
     "@payloadcms/richtext-slate": "3.27.0",
     "@payloadcms/ui": "3.0.0-beta.28",
