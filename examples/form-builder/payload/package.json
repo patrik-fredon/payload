@@ -19,7 +19,7 @@
     "@faceless-ui/modal": "^2.0.2",
     "@payloadcms/db-mongodb": "3.39.1",
     "@payloadcms/next": "3.40.0",
-    "@payloadcms/plugin-cloud": "3.0.2",
+    "@payloadcms/plugin-cloud": "3.0.4",
     "@payloadcms/plugin-form-builder": "3.39.1",
     "@payloadcms/richtext-lexical": "3.40.0",
     "cross-env": "^7.0.3",
