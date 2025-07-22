@@ -19,7 +19,7 @@
     "@payloadcms/db-mongodb": "3.38.0",
     "@payloadcms/next": "3.39.1",
     "@payloadcms/richtext-slate": "3.38.0",
-    "@payloadcms/ui": "3.0.0-beta.24",
+    "@payloadcms/ui": "3.44.0",
     "cross-env": "^7.0.3",
     "next": "14.3.0-canary.68",
     "payload": "3.39.1",
