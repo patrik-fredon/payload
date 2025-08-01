@@ -54,7 +54,7 @@
     "@payloadcms/translations": "workspace:*",
     "@payloadcms/ui": "workspace:*",
     "is-hotkey": "0.2.0",
-    "slate": "0.91.4",
+    "slate": "0.117.0",
     "slate-history": "0.86.0",
     "slate-hyperscript": "0.81.3",
     "slate-react": "0.92.0"
