@@ -20,7 +20,7 @@
     "@payloadcms/db-mongodb": "3.47.0",
     "@payloadcms/next": "3.40.0",
     "@payloadcms/plugin-cloud": "3.0.4",
-    "@payloadcms/plugin-form-builder": "3.41.0",
+    "@payloadcms/plugin-form-builder": "3.47.0",
     "@payloadcms/richtext-lexical": "3.40.0",
     "cross-env": "^7.0.3",
     "graphql": "^16.8.1",
