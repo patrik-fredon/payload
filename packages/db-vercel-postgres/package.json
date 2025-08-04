@@ -58,7 +58,7 @@
     "@vercel/postgres": "^0.10.0",
     "console-table-printer": "2.14.4",
     "drizzle-kit": "0.31.4",
-    "drizzle-orm": "0.36.1",
+    "drizzle-orm": "0.44.2",
     "pg": "8.16.3",
     "prompts": "2.4.2",
     "to-snake-case": "1.0.0",
