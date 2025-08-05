@@ -54,7 +54,7 @@
   "dependencies": {
     "@libsql/client": "0.15.8",
     "@payloadcms/drizzle": "workspace:*",
-    "console-table-printer": "2.14.0",
+    "console-table-printer": "2.14.3",
 
     "drizzle-kit": "0.31.4",
     "drizzle-orm": "0.44.1",
