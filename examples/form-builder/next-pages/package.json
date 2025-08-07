@@ -12,7 +12,7 @@
     "@apollo/client": "^3.7.0",
     "@faceless-ui/css-grid": "^1.2.0",
     "@faceless-ui/modal": "^2.0.2",
-    "@payloadcms/plugin-form-builder": "3.39.1",
+    "@payloadcms/plugin-form-builder": "3.48.0",
     "@payloadcms/richtext-lexical": "3.38.0",
     "escape-html": "^1.0.3",
     "graphql": "^16.8.1",
