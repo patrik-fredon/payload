@@ -18,7 +18,7 @@
     "@faceless-ui/css-grid": "^1.2.0",
     "@faceless-ui/modal": "^2.0.2",
     "@payloadcms/db-mongodb": "3.47.0",
-    "@payloadcms/next": "3.40.0",
+    "@payloadcms/next": "3.48.0",
     "@payloadcms/plugin-cloud": "3.0.4",
     "@payloadcms/plugin-form-builder": "3.47.0",
     "@payloadcms/richtext-lexical": "3.40.0",
