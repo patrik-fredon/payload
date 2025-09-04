@@ -57,7 +57,7 @@
     "slate": "0.91.4",
     "slate-history": "0.86.0",
     "slate-hyperscript": "0.81.3",
-    "slate-react": "0.92.0"
+    "slate-react": "0.112.1"
   },
   "devDependencies": {
     "@payloadcms/eslint-config": "workspace:*",
