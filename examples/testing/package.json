@@ -13,7 +13,7 @@
     "test": "jest --forceExit --detectOpenHandles"
   },
   "dependencies": {
-    "@payloadcms/bundler-webpack": "^1.0.5",
+    "@payloadcms/bundler-webpack": "^1.0.7",
     "@payloadcms/db-mongodb": "^1.1.0",
     "@payloadcms/richtext-slate": "^1.3.1",
     "dotenv": "^16.3.1",
