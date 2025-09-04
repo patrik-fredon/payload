@@ -337,7 +337,7 @@
   },
   "dependencies": {
     "@lexical/headless": "0.29.0",
-    "@lexical/link": "0.20.0",
+    "@lexical/link": "0.29.0",
     "@lexical/list": "0.29.0",
     "@lexical/mark": "0.20.0",
     "@lexical/react": "0.20.0",
