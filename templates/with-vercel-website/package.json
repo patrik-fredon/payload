@@ -21,7 +21,7 @@
   "dependencies": {
     "@payloadcms/db-vercel-postgres": "latest",
     "@payloadcms/live-preview-react": "latest",
-    "@payloadcms/next": "latest",
+    "@payloadcms/next": "3.59.1",
     "@payloadcms/payload-cloud": "latest",
     "@payloadcms/plugin-form-builder": "latest",
     "@payloadcms/plugin-nested-docs": "latest",
