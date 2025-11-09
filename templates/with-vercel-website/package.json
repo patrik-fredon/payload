@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@payloadcms/db-vercel-postgres": "latest",
-    "@payloadcms/live-preview-react": "latest",
+    "@payloadcms/live-preview-react": "3.60.0",
     "@payloadcms/next": "latest",
     "@payloadcms/payload-cloud": "latest",
     "@payloadcms/plugin-form-builder": "latest",
