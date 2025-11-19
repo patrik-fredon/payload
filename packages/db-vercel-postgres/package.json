@@ -57,7 +57,7 @@
     "@payloadcms/drizzle": "workspace:*",
     "@vercel/postgres": "^0.10.0",
     "console-table-printer": "2.14.4",
-    "drizzle-kit": "0.31.4",
+    "drizzle-kit": "0.31.6",
     "drizzle-orm": "0.36.1",
     "pg": "8.16.3",
     "prompts": "2.4.2",
