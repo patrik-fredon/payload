@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@payloadcms/db-mongodb": "latest",
-    "@payloadcms/next": "latest",
+    "@payloadcms/next": "3.65.0",
     "@payloadcms/richtext-lexical": "latest",
     "@payloadcms/ui": "latest",
     "cross-env": "^7.0.3",
