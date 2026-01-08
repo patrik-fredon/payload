@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@payloadcms/db-mongodb": "latest",
-    "@payloadcms/live-preview-react": "latest",
+    "@payloadcms/live-preview-react": "3.68.5",
     "@payloadcms/next": "latest",
     "@payloadcms/payload-cloud": "latest",
     "@payloadcms/plugin-form-builder": "latest",
