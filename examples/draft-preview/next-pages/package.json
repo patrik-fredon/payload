@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "escape-html": "^1.0.3",
-    "next": "^13.5.8",
+    "next": "^15.5.10",
     "payload-admin-bar": "^1.0.6",
-    "qs": "^6.11.0",
+    "qs": "^6.14.2",
     "react": "^18.2.0",
     "react-cookie": "^4.1.1",
     "react-dom": "^18.2.0"
